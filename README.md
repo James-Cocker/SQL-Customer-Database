@@ -1,2 +1,2 @@
-# SQL-Student-Database
+# SQL-Customer-Database
 Creating two tables, 'customer' and 'customer order', then running various commands on them
