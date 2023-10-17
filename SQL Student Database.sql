@@ -52,7 +52,7 @@ VALUES (1, '2017-07-04', 154.00, 1),
 
 
 
--- ----  SQL  ---- --
+-- ----  Queries  ---- --
 
 
 -- Creating a SELECT query that show the first name, surname, 
